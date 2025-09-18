@@ -1,2 +1,3 @@
 Ejemplo para la práctica de uso de GIT.
 Cambio
+Cambio 2 para conflicto
